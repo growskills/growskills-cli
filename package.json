@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Command line tool for help to manage growskills knowledge base",
   "main": "index.ts",
-  "bin": "./node_modules/.bin/ts-node ./index.ts",
+  "bin": {
+    "growskills": "./index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "./node_modules/.bin/ts-node ./index.ts"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
