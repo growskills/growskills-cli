@@ -2,7 +2,7 @@
   "name": "growskills-cli",
   "version": "1.0.0",
   "description": "Command line tool for help to manage growskills knowledge base",
-  "main": "index.ts",
+  "main": "index.js",
   "bin": {
     "growskills": "./index.js"
   },
