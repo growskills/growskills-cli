@@ -1,0 +1,24 @@
+{
+  "name": "growskills-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for help to manage growskills knowledge base",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/growskills/growskills-cli.git"
+  },
+  "author": "dmitriy@chudnyi.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/growskills/growskills-cli/issues"
+  },
+  "homepage": "https://github.com/growskills/growskills-cli#readme",
+  "dependencies": {
+    "ts-node": "^8.0.3",
+    "tslib": "^1.9.3",
+    "typescript": "^3.3.3333"
+  }
+}
