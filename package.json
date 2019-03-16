@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Command line tool for help to manage growskills knowledge base",
   "main": "index.ts",
+  "bin": "ts-node ./index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
