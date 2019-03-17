@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/growskills/growskills-cli#readme",
   "dependencies": {
+    "@types/node": "^11.11.3",
     "ts-node": "^8.0.3",
     "tslib": "^1.9.3",
     "typescript": "^3.3.3333"
-  }
+  },
+  "devDependencies": {}
 }
